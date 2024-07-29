@@ -1,16 +1,18 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**arianedemarck/arianedemarck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ariane de Marck
 
-Here are some ideas to get you started:
+- Estou estudando no Alura;
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para mimha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  marck.ariane@escola.pr.gov.br
+  
+  @arianedemarck
+
+![](![image](https://github.com/user-attachments/assets/6b3e0971-978b-446d-922c-8d06e88254fe))
+![image](https://github.com/user-attachments/assets/aa1f1af2-fbb1-4bd9-8711-080a09bc3f7b)
+
+
