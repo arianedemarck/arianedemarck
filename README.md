@@ -2,7 +2,7 @@
 
 Meu nome é Ariane de Marck
 
-- Estou estudando no Alura;
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para mimha organização e compartilhamento dos meus projetos desenvolvidos
 
